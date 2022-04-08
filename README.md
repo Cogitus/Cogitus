@@ -1,19 +1,19 @@
 <div>
     <div align="center" style=" margin: 0.6em;">
         <h1>Ariel da Silva Alsina</h1>
-        <a href="https://www.linkedin.com/in/ariel-alsina/">
+        <a href="https://www.linkedin.com/in/ariel-alsina/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn" />
         </a>
-        <a href="https://www.facebook.com/ariel.alsina.42">
+        <a href="https://www.facebook.com/ariel.alsina.42" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=Facebook&logoColor=white" />
         </a>
-        <a href="https://medium.com/@ariel.alsina2007">
+        <a href="https://medium.com/@ariel.alsina2007" target="_blank">
             <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium" />
         </a>
-        <a href="https://open.spotify.com/user/ariel_alsina?si=HF4D_cuvR4Kf9HIWM5IyIA&nd=1">
+        <a href="https://open.spotify.com/user/ariel_alsina?si=HF4D_cuvR4Kf9HIWM5IyIA&nd=1" target="_blank">
             <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
         </a>
-        <a href="https://www.instagram.com/alsinaariel/">
+        <a href="https://www.instagram.com/alsinaariel/" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
     </div>
