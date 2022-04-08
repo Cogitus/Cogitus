@@ -1,5 +1,5 @@
 <div style="text-align:center; font-family: 'Source Code Pro', monospace; color: #4e1470;">
-    <span style="font-size: 2.5em;">Ariel da Silva Alsina</span>
+    <p style="font-size: 2.5em;">Ariel da Silva Alsina</p>
     <div style=" margin: 0.6em;">
         <a href="https://www.linkedin.com/in/ariel-alsina/">
             <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn" />
@@ -26,22 +26,22 @@ Interested in technology, lover of the fine arts, humanist, plant grower in my f
 
 # Tools that i work or worked with   
 <div id="dev_icons" style="display: inline_block;" align="center">
-    <img height="60" alt="ubuntu_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-    <img height="60" alt="linux_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img height="60" alt="bash_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img height="60" alt="css3_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-    <img height="60" alt="html5_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img height="60" alt="php_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img height="60" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="60" alt="cplusplus_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-    <img height="60" alt="postgresql_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img height="60" alt="mysql_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img height="60" alt="gitlab_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-    <img height="60" alt="git_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img height="60" alt="github_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img height="60" alt="python_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img height="60" alt="jupyter_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img height="60" alt="anaconda_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+    <img height="45" alt="ubuntu_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+    <img height="45" alt="linux_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img height="45" alt="bash_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img height="45" alt="css3_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+    <img height="45" alt="html5_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img height="45" alt="php_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img height="45" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="45" alt="cplusplus_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img height="45" alt="postgresql_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img height="45" alt="mysql_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="45" alt="gitlab_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+    <img height="45" alt="git_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="45" alt="github_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img height="45" alt="python_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="45" alt="jupyter_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img height="45" alt="anaconda_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 </div>
 
 ----
