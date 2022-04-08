@@ -1,6 +1,6 @@
-<div style="text-align:center; font-family: 'Source Code Pro', monospace; color: #4e1470;">
-    <p style="font-size: 2.5em;">Ariel da Silva Alsina</p>
-    <div style=" margin: 0.6em;">
+<div>
+    <div align="center" style=" margin: 0.6em;">
+        <h1>Ariel da Silva Alsina</h1>
         <a href="https://www.linkedin.com/in/ariel-alsina/">
             <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn" />
         </a>
@@ -14,7 +14,7 @@
             <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
         </a>
         <a href="https://www.instagram.com/alsinaariel/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
     </div>
 </div>
