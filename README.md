@@ -42,25 +42,11 @@ Interested in technology, lover of the fine arts, humanist, plant grower in my f
     <img height="60" alt="python_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="60" alt="jupyter_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img height="60" alt="anaconda_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-                                      
-    
 </div>
-          
-<!--
-**Cogitus/Cogitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![Snake animation](https://github.com/Cogitus/Cogitus/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <div id="ariel_stats">
