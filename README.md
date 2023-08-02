@@ -42,6 +42,7 @@ Interested in technology, lover of the fine arts, humanist, plant grower in my f
     <img height="45" alt="python_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="45" alt="jupyter_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img height="45" alt="anaconda_ariel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+
 </div>
 
 ----
@@ -50,8 +51,8 @@ Interested in technology, lover of the fine arts, humanist, plant grower in my f
 
 ##
 <div id="ariel_stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cogitus&layout=compact&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cogitus&show_icons=true&count_private=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cogitus&layout=compact&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cogitus&show_icons=true&count_private=true&theme=synthwave"/>
 </div>
 
 
